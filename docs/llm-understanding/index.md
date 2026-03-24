@@ -2,7 +2,7 @@
 
 > **Module 1 — The Mainline**
 >
-> This is the foundational lesson. Understand the LLM system in full before moving on to clients, models, or providers.
+> This is the full session lesson. Understand the LLM system in full through the diagram and section walkthroughs below.
 
 ---
 
@@ -203,5 +203,5 @@ This architecture represents a shift toward more **autonomous, action-oriented A
 
 ---
 
-!!! success "Next Up"
-    Continue to [LLM Clients →](../llm-clients/index.md) to learn about the products and interfaces built on top of LLM systems.
+!!! success "Session Complete"
+    You now have the core LLM system mental model: clients send context, the model reasons within limits and guardrails, and capabilities expand through training data, RAG, and tool-enabled agents.

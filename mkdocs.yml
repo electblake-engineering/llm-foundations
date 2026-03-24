@@ -1,5 +1,5 @@
 site_name: LLM Foundations
-site_description: A companion micro-site to the LLM Understanding Lesson Plan — covering LLM clients, models, vision-language models, and inference providers.
+site_description: A focused course site for the LLM Understanding lesson, including core system diagrams and foundational concepts.
 site_url: https://electblake-engineering.github.io/llm-foundations/
 repo_url: https://github.com/electblake-engineering/llm-foundations
 repo_name: electblake-engineering/llm-foundations
@@ -57,14 +57,4 @@ extra_javascript:
 
 nav:
   - Home: index.md
-  - Course:
-    - "1. LLM Understanding":
-      - Overview: llm-understanding/index.md
-    - "2. LLM Clients":
-      - Overview: llm-clients/index.md
-    - "3. LLM Models":
-      - Overview: llm-models/index.md
-    - "4. Vision-Language Models (VLM)":
-      - Overview: vlm/index.md
-    - "5. Inference Providers":
-      - Overview: inference-providers/index.md
+  - LLM Understanding: llm-understanding/index.md
